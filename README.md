@@ -14,7 +14,7 @@ This is a simple, static website designed to showcase my projects, skills, and i
 
 ## How to View
 
-You can view the website live at: [https://username.github.io/](https://kjo90.github.io/) (replace `username` with your actual GitHub username).
+You can view the website live at: [https://kjo90.github.io/](https://kjo90.github.io/) (replace `username` with your actual GitHub username).
 
 ## How to Contribute
 
